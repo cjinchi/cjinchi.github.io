@@ -32,7 +32,8 @@ body {
 a {
   color: #455fee;
   text-decoration: none;
-  font-weight: 700; }
+  /* font-weight: 700; */
+ }
 a:hover, a:focus {
     color: #262626; }
 
